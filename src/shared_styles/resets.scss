@@ -85,3 +85,11 @@ img {
   height: auto;
   border: 0;
 }
+
+img:hover{
+    transform: scale(1.2);
+}
+
+img:active{
+    transform: scale(1.5);
+}
